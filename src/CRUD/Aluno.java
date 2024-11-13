@@ -5,6 +5,7 @@ public class Aluno {
     String nome;
     int idade;
 
+    //metodo construtor
     public Aluno( int id, String nome, int idade) {
         this.id = id;
         this.nome = nome;
